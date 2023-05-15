@@ -1,0 +1,16 @@
+body{
+	background-image: url('bg1.jpg');
+	background-size: 120%;
+	background-position: center;
+}
+
+p {
+	color: red;
+	font-size: 25px;
+}
+
+#p {
+	color: gold;
+	font-size: 30px;
+}
+
